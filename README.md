@@ -7,7 +7,7 @@ Scraper rápido e otimizado para nodeJS.
 To install the SDK, run the following command:
 
 ```shell
-npm install github:Lm-Omly/fast-yt-search
+npm install github:Lm-Only/fast-yt-search
 ```
 
 ## Import
