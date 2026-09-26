@@ -1,6 +1,6 @@
 {
   "name": "fast-yt-search",
-  "version": "1.0.3",
+  "version": "1.1.0",
   "description": "Módulo Node.js de Alta Performance para Consulta de Metadados do YouTube",
   "keywords": [
     "nodejs",
