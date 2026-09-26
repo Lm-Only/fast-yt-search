@@ -1,6 +1,6 @@
 {
   "name": "fast-yt-search",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Módulo Node.js de Alta Performance para Consulta de Metadados do YouTube",
   "keywords": [
     "nodejs",
@@ -31,6 +31,6 @@
     "test": "node test.js"
   },
   "dependencies": {
-    "undici": "^8.10.0"
+    "undici": "^7.0.0"
   }
 }
