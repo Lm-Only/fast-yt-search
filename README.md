@@ -31,7 +31,12 @@ Scraper rápido e otimizado para nodeJS.
 
 ## Installation
 
-```shell
+```bash
+npm config set allow-git all
+```
+> Configuração básica 
+
+```bash
 npm install github:Lm-Only/fast-yt-search
 ```
 
